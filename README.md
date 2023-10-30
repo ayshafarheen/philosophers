@@ -1,4 +1,4 @@
-# philosophers
+<img width="2560" alt="Screen Shot 2023-08-13 at 1 43 33 PM" src="https://github.com/ayshafarheen/philosophers/assets/64208210/29ca8bda-fc4e-4267-b690-e4f171800f7c"># philosophers
 
 The "Philosophers" project is a common exercise in computer science and concurrent programming. It involves creating a simulation of philosophers that demonstrate concurrent behavior, competing for forks to eat and thinking. The goal is to avoid deadlocks, resource contention, and provide an understanding of threading and synchronization techniques.
 
@@ -13,3 +13,4 @@ The "Philosophers" project is a common exercise in computer science and concurre
 * Concurrent Execution: The project provides a practical understanding of concurrent programming, using synchronization primitives like mutexes and semaphores.
 
 * Error Handling: The program should handle errors, such as thread creation and synchronization issues.
+![dining-philosophers-problem-and-solution-in-java](https://github.com/ayshafarheen/philosophers/assets/64208210/3ade8442-7ae5-4ba8-872a-9c0b8b269e23)
